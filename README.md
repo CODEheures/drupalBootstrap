@@ -3,8 +3,13 @@
 > A [Drupal](https://www.drupal.org) configuration with boostrap for fast starting.
 
 ## Installation
-Require this package, with [Composer](https://getcomposer.org), in the root directory of your project.
+Clone this repository in your www target folder
 
+```bash
+git clone https://github.com/CODEheures/drupalBootstrap.git my_target_folder
+```
+
+Install packages
 ```bash
 $ composer install
 ```

@@ -1,0 +1,6 @@
+core/
+modules/
+profiles/
+sites/
+/*.*
+themes/contrib/bootstrap/

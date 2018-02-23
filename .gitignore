@@ -1,10 +1,4 @@
-*
-!.gitignore
-!composer.json
-!nginx.conf
-!README.md
-!web/
-!web/themes/
-!web/themes/contrib/
-!web/themes/contrib/codeheures/
-!web/themes/contrib/codeheures/*
+.idea/
+/config/
+/vendor/
+/composer.lock
